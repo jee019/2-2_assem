@@ -1,7 +1,7 @@
 ## week 2 (control flow & data processing)
-Memory로부터 값을 받아 이를 이용해 원하는 연산을 수행할 수 있다.
-Assembly code를 작성할 때 performance를 생각하며 작성한다.
-branch 명령어와 conditional execution의 차이를 알아보고 memory를 할당하여 data를 저장할 수 있다.
+Memory로부터 값을 받아 이를 이용해 원하는 연산을 수행함
+Assembly code를 작성할 때 performance를 생각하며 작성함
+Branch 명령어와 conditional execution의 차이를 알아보고 memory를 할당하여 data를 저장함
 
 ### Problem1
 Strcmp 함수 구현

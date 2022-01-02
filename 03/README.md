@@ -1,4 +1,4 @@
-## 3week (Second Operand & Multiplication)  
+## week 3 (Second Operand & Multiplication)  
 Multiplication operation을 사용하는 것과 Second operand를 사용한 코드의 성능 차이를 비교함
 Operand의 순서에 따른 성능의 차이
 

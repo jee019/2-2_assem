@@ -1,4 +1,4 @@
-## week 1 (data_transfer_to_or_from_Mem)
+## week 1 (data transfer to or from Mem)
 기본 명령어 사용 예제를 통해 어셈블리어 프로그래밍을 이해하고 ARM 조건부 실행 코드 보는 방법을 이해하고 어셈블리어 프로그래밍 능력을 습득한다.  
 또한 원하는 데이터를 메모리로 저장 및 가져올 수 있도록 어셈블리어 프로그래밍 능력을 습득한다.
 
